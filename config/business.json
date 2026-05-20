@@ -1,0 +1,26 @@
+{
+  "default": {
+    "businessName": "Urban Roots",
+    "logo": "/public/project_assets/urbanRootsLogo.png",
+    "contact": {
+      "email": "info@urbanroots.org",
+      "phone": "+1-555-555-5555"
+    },
+    "countdown": {
+      "enabled": true,
+      "targetDate": "2026-12-31T23:59:59Z"
+    }
+  },
+  "bestlandscapings.com": {
+    "businessName": "Best Landscapings, Calgary",
+    "logo": "/public/project_assets/urbanRootsLogo.png",
+    "contact": {
+      "email": "urbanroot.ca@gmail.com",
+      "phone": "+1-587-966-9363, +1-613-503-2786"
+    },
+    "countdown": {
+      "enabled": true,
+      "targetDate": "2026-05-30T12:00:00Z"
+    }
+  }
+}
