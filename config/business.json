@@ -1,0 +1,26 @@
+{
+  "default": {
+    "businessName": "Urban Roots",
+    "logo": "/public/project_assets/urbanRootsLogo.png",
+    "contact": {
+      "email": "info@urbanroots.org",
+      "phone": "+1-555-555-5555"
+    },
+    "countdown": {
+      "enabled": true,
+      "targetDate": "2026-12-31T23:59:59Z"
+    }
+  },
+  "bestlandscapings.com": {
+    "businessName": "Best Landscapings",
+    "logo": "/public/bestlandscapingsLogo.png",
+    "contact": {
+      "email": "info@bestlandscapings.com",
+      "phone": "+1-222-333-4444"
+    },
+    "countdown": {
+      "enabled": false,
+      "targetDate": "2026-10-01T12:00:00Z"
+    }
+  }
+}
