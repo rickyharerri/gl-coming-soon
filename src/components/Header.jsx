@@ -13,7 +13,7 @@ export default function Header() {
       letterSpacing: '2px',
       boxShadow: '0 2px 8px rgba(0,0,0,0.05)'
     }}>
-      <span style={{color: '#00b894'}}>GetLogix</span> Development
+      <span style={{color: '#00b894'}}>GetLogix Inc.</span> Development
     </header>
   );
 }
