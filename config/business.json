@@ -12,15 +12,15 @@
     }
   },
   "bestlandscapings.com": {
-    "businessName": "Best Landscapings",
-    "logo": "/public/bestlandscapingsLogo.png",
+    "businessName": "Best Landscapings, Calgary",
+    "logo": "/public/project_assets/urbanRootsLogo.png",
     "contact": {
-      "email": "info@bestlandscapings.com",
-      "phone": "+1-222-333-4444"
+      "email": "urbanroot.ca@gmail.com",
+      "phone": "+1-587-966-9363, +1-613-503-2786"
     },
     "countdown": {
-      "enabled": false,
-      "targetDate": "2026-10-01T12:00:00Z"
+      "enabled": true,
+      "targetDate": "2026-05-30T12:00:00Z"
     }
   }
 }
